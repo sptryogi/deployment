@@ -1,3 +1,5 @@
+ekstrak app.rar
+lalu lakukan instalasi package seperti dibawah
 ===================
 [Packages List]
 ===================
